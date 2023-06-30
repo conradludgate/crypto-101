@@ -1,8 +1,8 @@
 # Salsa/ChaCha
 
-Salsa and ChaCha are two popular and secure stream ciphers.
-They are quite configurable, allowing you to change the number of rounds the state goes through
-to get the block key.
+Salsa and ChaCha are two popular and secure stream ciphers. They achieve high performance even in
+software implementations. They are configurable, allowing you to change the number of rounds the
+state goes through to get the block key.
 
 Standard configurations are
 
@@ -30,3 +30,4 @@ There is also the "extended" XSalsa and XChaCha algorithms which allow you to us
 | XChaCha | 256 bit | 192 bit |
 
 Salsa20 is well known for being the cipher behind NaCl's secretbox.
+ChaCha20 is well known for being a stream cipher in TLS 1.2/1.3
