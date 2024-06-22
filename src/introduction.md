@@ -7,7 +7,7 @@ of your systems inspired by the text within. We will however link to sources for
 
 ## What is this guide
 
-This is a guide for any developer to learn what solutions to cryptographic problems exist.
-It is not intended to feature every single algorithm and every single way to compose primitives,
-but cover most common uses and some more uncommon but useful uses of primitives.
+So, you want to roll-your-own-crypto, but are told not to? You're in the right place. This guide
+will cover the primitives and standard constructions, as well as listing common attacks against
+crypto. Before getting started on your ideas, I would recommend reading everything in this guide.
 
